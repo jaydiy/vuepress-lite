@@ -1,0 +1,65 @@
+# http://editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+charset = utf-8
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+max_line_length = 300
+## 大括号不另起一行
+curly_bracket_next_line = false
+## 运算符前后有空格
+spaces_around_operators = true
+## 条件语句格式是 1tbs
+indent_brace_style = 1tbs
+## 表示括号和括号之间应有空格：无空格，仅在括号内，仅在括号外或在括号的两侧 （none，inside，outside，both）
+spaces_around_brackets
+## 在指定的字符数后强制换行。off关闭此功能
+max_line_length
+
+[*.{groovy,java,kt,kts}]
+indent_style = tab
+continuation_indent_size = 8
+
+[*.{xml,xsd}]
+indent_style = tab
+
+[Makefile]
+indent_style = tab
+
+[*.py]
+indent_size = 4
+
+[*.js]
+indent_size = 4
+## 字符串使用单引号
+quote_type = single
+
+[*.ts]
+indent_size = 4
+
+[*.html]
+indent_size = 4
+quote_type = double
+
+[*.{less,css}]
+indent_size = 2
+
+[*.json]
+indent_size = 2
+
+[*.{tsx,jsx}]
+indent_size = 2
+
+[*.yml]
+indent_size = 2
+
+[*.sql]
+indent_size = 2
+
+[*.md]
+insert_final_newline = false
+trim_trailing_whitespace = false

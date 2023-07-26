@@ -1,0 +1,12 @@
+{
+  "stylelint.autoFixOnSave": true, // 保存自动格式化
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true // stylelint
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true // 保存的时候自动格式化
+  }
+}
