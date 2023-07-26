@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { bundler, head, navbar, sidebar } from './config/index.js'
 
 export default defineUserConfig({
-  base: '/vuepress-vite/',
+  base: '/vuepress-lite/',
   lang: 'zh-CN',
   title: '你好， VuePress ！',
   description: '这是我的第一个 VuePress 站点',
