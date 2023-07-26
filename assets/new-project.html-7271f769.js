@@ -1,4 +1,4 @@
-import{_ as l,r as t,o as d,c,a as s,d as n,b as i,e}from"./app-249f348c.js";const o={},r=e(`<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介" aria-hidden="true">#</a> 简介</h2><ul><li><p>项目结构</p></li><li><p>步骤</p><ul><li><p>新建</p></li><li><p>规范</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>代码提交规范
+import{_ as l,r as t,o as d,c,a as s,d as n,b as i,e}from"./app-0e9b307b.js";const o={},r=e(`<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介" aria-hidden="true">#</a> 简介</h2><ul><li><p>项目结构</p></li><li><p>步骤</p><ul><li><p>新建</p></li><li><p>规范</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>代码提交规范
 基础配置
 	.browserslistrc
 .vscode

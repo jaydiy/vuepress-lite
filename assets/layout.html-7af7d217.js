@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as a,e as t}from"./app-249f348c.js";const p={},e=t(`<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介" aria-hidden="true">#</a> 简介</h2><h3 id="目录结构" tabindex="-1"><a class="header-anchor" href="#目录结构" aria-hidden="true">#</a> 目录结构</h3><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>├─ docs
+import{_ as n,o as s,c as a,e as t}from"./app-0e9b307b.js";const p={},e=t(`<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介" aria-hidden="true">#</a> 简介</h2><h3 id="目录结构" tabindex="-1"><a class="header-anchor" href="#目录结构" aria-hidden="true">#</a> 目录结构</h3><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>├─ docs
 │  ├─ .vuepress
 │  │  ├─ components   &lt;-- 自定义组件库
 │  │  ├─ config   &lt;-- 布局，head.ts navbar.ts sidebar.ts index.ts[导出其它ts文件]
